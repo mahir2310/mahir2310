@@ -22,18 +22,15 @@
     <rect x="364" y="276" width="142" height="18" rx="9" fill="#22C55E" fill-opacity="0.88"/>
   </g>
   <g>
-    <circle cx="994" cy="182" r="96" fill="#091523" stroke="white" stroke-opacity="0.18" stroke-width="2"/>
-    <circle cx="994" cy="182" r="84" fill="url(#avatarGlow)"/>
-    <text x="955" y="194" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="800">SM</text>
-    <text x="909" y="234" fill="#93C5FD" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700">PROFILE PHOTO READY</text>
-  </g>
-  <g>
-    <rect x="1070" y="105" width="126" height="38" rx="19" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
-    <rect x="1070" y="160" width="126" height="38" rx="19" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
-    <rect x="1070" y="215" width="126" height="38" rx="19" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
-    <text x="1101" y="130" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">Web Dev</text>
-    <text x="1096" y="185" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">AI Focus</text>
-    <text x="1088" y="240" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">IoT Build</text>
+    <rect x="902" y="103" width="240" height="54" rx="20" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
+    <rect x="902" y="171" width="240" height="54" rx="20" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
+    <rect x="902" y="239" width="240" height="54" rx="20" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
+    <circle cx="938" cy="130" r="9" fill="#38BDF8"/>
+    <circle cx="938" cy="198" r="9" fill="#F97316"/>
+    <circle cx="938" cy="266" r="9" fill="#22C55E"/>
+    <text x="962" y="136" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">Web Development</text>
+    <text x="962" y="204" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">AI and Problem Solving</text>
+    <text x="962" y="272" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">Automation and IoT</text>
   </g>
   <defs>
     <linearGradient id="bg" x1="38" y1="26" x2="1213" y2="362" gradientUnits="userSpaceOnUse">
@@ -52,10 +49,6 @@
     <linearGradient id="orb2" x1="1021" y1="166" x2="1201" y2="349" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22C55E" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="avatarGlow" x1="910" y1="105" x2="1078" y2="259" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1D4ED8"/>
-      <stop offset="1" stop-color="#0EA5E9"/>
     </linearGradient>
     <linearGradient id="line1" x1="925" y1="-48" x2="1201" y2="202" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8" stop-opacity="0"/>

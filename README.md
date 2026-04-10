@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="./assets/mahir.jpg" alt="Sajid Hasan Mahir" width="170" style="border-radius: 50%; border: 4px solid #1f6feb;" />
-</div>
-
-<div align="center">
   <a href="https://github.com/mahir2310">
     <img src="https://img.shields.io/badge/GitHub-mahir2310-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -32,25 +28,11 @@
   <a href="https://mahir2310.github.io/MahirPortfoliyoNew/"><img src="https://img.shields.io/badge/-Portfolio-F97316?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio icon" /></a>
 </div>
 
-## Summary
-
-I am a final-year Computer Science and Engineering student from Dhaka, Bangladesh who enjoys building practical software and intelligent systems. I am looking for opportunities where I can grow as a software engineer and contribute with strong problem-solving, clean development practices, and curiosity for modern technologies.
-
 <div align="center">
   <img src="https://img.shields.io/badge/Software%20Engineering-0F172A?style=for-the-badge&logo=codemagic&logoColor=38BDF8" alt="Software Engineering" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=F59E0B" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Automation%20%26%20IoT-0F172A?style=for-the-badge&logo=homeassistant&logoColor=22C55E" alt="Automation and IoT" />
 </div>
-
-## Contact
-
-- Email: [sajidhasanmahir2003@gmail.com](mailto:sajidhasanmahir2003@gmail.com)
-- Phone: `01731849660`
-- Location: Dhaka, Bangladesh
-- GitHub: [github.com/mahir2310](https://github.com/mahir2310)
-- LinkedIn: [linkedin.com/in/sajid-hasan-mahir-802437259](https://www.linkedin.com/in/sajid-hasan-mahir-802437259/)
-- Portfolio: [mahir2310.github.io/MahirPortfoliyoNew](https://mahir2310.github.io/MahirPortfoliyoNew/)
-- Facebook: [facebook.com/sajidhasanmahir](https://www.facebook.com/sajidhasanmahir/)
 
 ## What I Work With
 
