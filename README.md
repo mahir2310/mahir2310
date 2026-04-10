@@ -22,7 +22,7 @@
 
 ## Summary
 
-I am a final-year Computer Science and Engineering student seeking an entry-level Software Engineering position where I can apply programming knowledge, problem-solving ability, and passion for building intelligent systems. I am interested in software development, artificial intelligence, and modern software technologies.
+I am a final-year Computer Science and Engineering student from Dhaka, Bangladesh who enjoys building practical software and intelligent systems. I am looking for opportunities where I can grow as a software engineer and contribute with strong problem-solving, clean development practices, and curiosity for modern technologies.
 
 ## Contact
 
@@ -34,11 +34,12 @@ I am a final-year Computer Science and Engineering student seeking an entry-leve
 - Portfolio: [mahir2310.github.io/MahirPortfoliyoNew](https://mahir2310.github.io/MahirPortfoliyoNew/)
 - Facebook: [facebook.com/sajidhasanmahir](https://www.facebook.com/sajidhasanmahir/)
 
-## Education
+## What I Work With
 
-- BSc in CSE, American International University-Bangladesh, 2022-Present, CGPA: 3.79
-- HSC, Dilwara Jahan Memorial College, 2021, GPA: 4.83
-- SSC, Chittagong Govt. High School, 2019, GPA: 4.22
+- Full-stack web development
+- AI and modern software technologies
+- Automation and IoT-based systems
+- Real-world project building and continuous learning
 
 ## Technical Skills
 
@@ -51,46 +52,22 @@ I am a final-year Computer Science and Engineering student seeking an entry-leve
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,kotlin,java,react,nextjs,nodejs,postgres,mysql,firebase,git,github,vscode,androidstudio&perline=6" alt="Technical skills" />
 </div>
 
-## Featured Projects
+## Connect With Me
 
-### StoryNight
-[Repository](https://github.com/mahir2310/storynight.git)
-
-Cinema booking platform built with PHP, MySQL, JavaScript, HTML, and CSS. It includes separate Admin, Manager, and Customer dashboards, ticket booking and cancellation, real-time seat availability updates, personalized account settings, user role management, movie discounts, media uploads, and downloadable PDF e-tickets.
-
-### CD Shop Management System
-[Repository](https://github.com/mahir2310/CDShopManagementSystem.git)
-
-Shop management application built with C#, Windows Forms, and SQL Server to manage CD stock, customer information, employee activities, daily sales, billing, stock updates, sales tracking, and printable bill generation through a centralized system.
-
-### Movie Ticketing System
-[Repository](https://github.com/mahir2310/Movie-Ticketing-System.git) | [Video Demo](https://www.youtube.com/watch?v=gGHVHdBwb_k&t=1s)
-
-Desktop application built with Java, Java Swing, OOP, and file handling. It features authentication, password recovery, personal dashboards, ticket purchase flows, profile updates, ticket price viewing, booking history, and seat deduction logic using persistent storage.
-
-### Home Automation Project
-[Repository](https://github.com/mahir2310/Home-Automation.git) | [Video Demo](https://www.youtube.com/shorts/Cw2GiCWOvLA)
-
-Embedded automation system built with Arduino, C++, SIM900A, DS3231 RTC, and relay modules. It supports GSM call-based motor and light control, RTC-based scheduling, authorized-number validation, automatic motor shutoff, GSM reset handling, and watchdog-based recovery.
-
-### Bird Hunting Game Suite
-[Repository](https://github.com/mahir2310/Birdhunting.git)
-
-Desktop computer graphics game suite developed with C++, OpenGL (GLUT), and Code::Blocks. It includes Car Obstacle, Space Shooting, and Bird Hunting with menu-driven navigation, real-time animation, gameplay controls, collision detection, sound effects, and persistent high-score tracking.
-
-### TOOR-TAJA
-[Repository](https://github.com/P57nath/TOOR-TAJA)
-
-Full-stack grocery e-commerce application built with Next.js, NestJS, PostgreSQL, and Pusher. It includes role-based dashboards, cart and checkout flows, seller story approval, payment processing, review features, and real-time notifications.
-
-## Publications and Achievements
-
-- Publication: "Impact of Competitive Programming Skill on Career Development and Job Success." Presented at First National Research Conclave 2024 at Military Institute of Science and Technology.
-- Certification: [CISCO IT Essentials (2022)](https://www.credly.com/users/sajid-hasan-mahir/badges#credly)
-
-## Volunteering
-
-- Bangladesh Red Crescent Society: Served as a blood donor.
+<div align="center">
+  <a href="https://github.com/mahir2310">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sajid-hasan-mahir-802437259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/sajidhasanmahir/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:sajidhasanmahir2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ## GitHub Analytics
 
