@@ -1,7 +1,7 @@
 # <div align="center">Sajid Hasan Mahir</div>
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Sajid Hasan Mahir GitHub Profile Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Sajid Hasan Mahir GitHub Profile Banner" width="100%" />
 </div>
 
 <div align="center">
