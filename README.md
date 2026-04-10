@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="./assets/mahir.jpg" alt="Sajid Hasan Mahir" width="170" style="border-radius: 50%; border: 4px solid #1f6feb;" />
+</div>
+
+<div align="center">
   <a href="https://github.com/mahir2310">
     <img src="https://img.shields.io/badge/GitHub-mahir2310-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -20,9 +24,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=14B8A6&center=true&vCenter=true&width=980&lines=Final-year+CSE+student+from+Dhaka%2C+Bangladesh;Aspiring+Software+Engineer;Interested+in+software+development%2C+AI%2C+and+modern+technologies;Building+practical+projects+with+real-world+impact" alt="Typing animation" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/mahir2310"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub icon" /></a>
+  <a href="https://www.linkedin.com/in/sajid-hasan-mahir-802437259/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn icon" /></a>
+  <a href="https://www.facebook.com/sajidhasanmahir/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook icon" /></a>
+  <a href="mailto:sajidhasanmahir2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail icon" /></a>
+  <a href="https://mahir2310.github.io/MahirPortfoliyoNew/"><img src="https://img.shields.io/badge/-Portfolio-F97316?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio icon" /></a>
+</div>
+
 ## Summary
 
 I am a final-year Computer Science and Engineering student from Dhaka, Bangladesh who enjoys building practical software and intelligent systems. I am looking for opportunities where I can grow as a software engineer and contribute with strong problem-solving, clean development practices, and curiosity for modern technologies.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-0F172A?style=for-the-badge&logo=codemagic&logoColor=38BDF8" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=F59E0B" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Automation%20%26%20IoT-0F172A?style=for-the-badge&logo=homeassistant&logoColor=22C55E" alt="Automation and IoT" />
+</div>
 
 ## Contact
 

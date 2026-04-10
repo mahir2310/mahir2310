@@ -1,38 +1,73 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="360" rx="32" fill="#09111F"/>
+  <rect width="1280" height="360" rx="32" fill="#07111E"/>
   <rect width="1280" height="360" rx="32" fill="url(#bg)"/>
-  <g opacity="0.8">
-    <circle cx="1142" cy="72" r="172" fill="#38BDF8" fill-opacity="0.18"/>
-    <circle cx="183" cy="311" r="208" fill="#F97316" fill-opacity="0.18"/>
-    <circle cx="970" cy="306" r="154" fill="#22C55E" fill-opacity="0.14"/>
+  <g opacity="0.75">
+    <path d="M925 -48C1038 23 1115 83 1201 202" stroke="url(#line1)" stroke-width="2"/>
+    <path d="M852 13C976 72 1081 153 1234 314" stroke="url(#line2)" stroke-width="2"/>
+    <path d="M804 83C950 144 1034 219 1129 360" stroke="url(#line3)" stroke-width="2"/>
   </g>
-  <path d="M0 256C159 212 292 217 411 246C543 279 643 323 819 293C983 265 1096 189 1280 140V360H0V256Z" fill="white" fill-opacity="0.06"/>
-  <path d="M0 284C182 230 311 232 441 264C584 300 684 338 841 317C1006 295 1126 226 1280 193" stroke="white" stroke-opacity="0.1" stroke-width="2"/>
-  <rect x="78" y="64" width="558" height="212" rx="28" fill="url(#glass)" stroke="white" stroke-opacity="0.18"/>
-  <text x="116" y="112" fill="#93C5FD" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">HELLO, I AM</text>
-  <text x="116" y="164" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="800">Sajid Hasan Mahir</text>
-  <text x="116" y="214" fill="#FDE68A" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700">Aspiring Software Engineer</text>
-  <text x="116" y="252" fill="#D1D5DB" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500">Software Development | AI | Automation</text>
+  <g opacity="0.85">
+    <circle cx="1049" cy="116" r="132" fill="url(#orb1)"/>
+    <circle cx="1127" cy="262" r="116" fill="url(#orb2)"/>
+    <circle cx="181" cy="311" r="180" fill="#F97316" fill-opacity="0.14"/>
+  </g>
+  <rect x="70" y="58" width="664" height="244" rx="28" fill="url(#glass)" stroke="white" stroke-opacity="0.18"/>
+  <text x="112" y="108" fill="#7DD3FC" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">GITHUB PROFILE</text>
+  <text x="112" y="164" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="800">Sajid Hasan Mahir</text>
+  <text x="112" y="214" fill="#FDE68A" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700">Aspiring Software Engineer</text>
+  <text x="112" y="255" fill="#D1D5DB" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500">Building useful software with AI, web, and automation.</text>
   <g>
-    <rect x="768" y="78" width="386" height="60" rx="20" fill="white" fill-opacity="0.09" stroke="white" stroke-opacity="0.12"/>
-    <rect x="768" y="150" width="386" height="60" rx="20" fill="white" fill-opacity="0.09" stroke="white" stroke-opacity="0.12"/>
-    <rect x="768" y="222" width="386" height="60" rx="20" fill="white" fill-opacity="0.09" stroke="white" stroke-opacity="0.12"/>
-    <circle cx="814" cy="108" r="11" fill="#38BDF8"/>
-    <circle cx="814" cy="180" r="11" fill="#F97316"/>
-    <circle cx="814" cy="252" r="11" fill="#22C55E"/>
-    <text x="842" y="115" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700">Building practical digital products</text>
-    <text x="842" y="187" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700">Exploring intelligent systems</text>
-    <text x="842" y="259" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700">Learning through real projects</text>
+    <rect x="112" y="276" width="132" height="18" rx="9" fill="#38BDF8" fill-opacity="0.88"/>
+    <rect x="252" y="276" width="104" height="18" rx="9" fill="#F97316" fill-opacity="0.88"/>
+    <rect x="364" y="276" width="142" height="18" rx="9" fill="#22C55E" fill-opacity="0.88"/>
+  </g>
+  <g>
+    <circle cx="994" cy="182" r="96" fill="#091523" stroke="white" stroke-opacity="0.18" stroke-width="2"/>
+    <circle cx="994" cy="182" r="84" fill="url(#avatarGlow)"/>
+    <text x="955" y="194" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="800">SM</text>
+    <text x="909" y="234" fill="#93C5FD" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700">PROFILE PHOTO READY</text>
+  </g>
+  <g>
+    <rect x="1070" y="105" width="126" height="38" rx="19" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
+    <rect x="1070" y="160" width="126" height="38" rx="19" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
+    <rect x="1070" y="215" width="126" height="38" rx="19" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.14"/>
+    <text x="1101" y="130" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">Web Dev</text>
+    <text x="1096" y="185" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">AI Focus</text>
+    <text x="1088" y="240" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700">IoT Build</text>
   </g>
   <defs>
-    <linearGradient id="bg" x1="57" y1="34" x2="1212" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1730"/>
-      <stop offset="0.55" stop-color="#102A43"/>
-      <stop offset="1" stop-color="#0F172A"/>
+    <linearGradient id="bg" x1="38" y1="26" x2="1213" y2="362" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1630"/>
+      <stop offset="0.48" stop-color="#10213F"/>
+      <stop offset="1" stop-color="#08111D"/>
     </linearGradient>
-    <linearGradient id="glass" x1="78" y1="64" x2="636" y2="276" gradientUnits="userSpaceOnUse">
-      <stop stop-color="white" stop-opacity="0.13"/>
+    <linearGradient id="glass" x1="70" y1="58" x2="734" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.14"/>
       <stop offset="1" stop-color="white" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="orb1" x1="917" y1="12" x2="1134" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="orb2" x1="1021" y1="166" x2="1201" y2="349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="avatarGlow" x1="910" y1="105" x2="1078" y2="259" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="line1" x1="925" y1="-48" x2="1201" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="line2" x1="852" y1="13" x2="1234" y2="314" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316" stop-opacity="0"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="line3" x1="804" y1="83" x2="1129" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E" stop-opacity="0"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0.55"/>
     </linearGradient>
   </defs>
 </svg>
